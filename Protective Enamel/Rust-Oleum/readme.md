@@ -19,5 +19,8 @@ index: https://www.homedepot.com/b/Paint-Industrial-Paint-Protective-Enamel/N-5y
 ## Hunter Green
 - https://www.homedepot.com/p/Rust-Oleum-Stops-Rust-1-qt-Protective-Enamel-Gloss-Hunter-Green-Interior-Exterior-Paint-2-Pack-7738502/202058867
 
+### Dark Hunter Green
+- https://www.homedepot.com/p/Rust-Oleum-Stops-Rust-1-qt-Protective-Enamel-Gloss-Dark-Hunter-Green-Interior-Exterior-Paint-2-Pack-7733502/202058866
+
 ## Sunrise Red
 - https://www.homedepot.com/p/Rust-Oleum-Stops-Rust-1-Qt-Protective-Enamel-Gloss-Sunrise-Red-Interior-Exterior-Paint-7762502/100140482
